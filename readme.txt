@@ -6,6 +6,6 @@ To run the code you have to run the following commands:
 2) pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 The project was done by:
-1) Ahmed Hanoon 2021006
-2) Naman Aggarwal 2021070
-3) Aakarsh Jain 2021507
+1) Ahmed Hanoon ahmed21006@iiitd.ac.in
+2) Naman Aggarwal naman21070@iiitd.ac.in
+3) Aakarsh Jain aakarsh21507@iiitd.ac.in
